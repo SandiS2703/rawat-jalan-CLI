@@ -1,0 +1,4 @@
+27 3 2002 N01 Sinta 089768568262 jl.pelangi wanita wirausaha 22 3 2001 Siska Gigi
+27 8 2020 N02 Bayu 086576977682 jl.bunga pria pelajar 27 8 2006 Gilang Gigi
+1 1 2001 N04 Satria 089564788988 jl.wibawa pria wirausaha 22 1 2005 Gilang Gigi
+27 8 2009 N03 Riska 0867548731973 Jl.Merdeka wanita pelajar 27 4 2005 Rangga Mata
